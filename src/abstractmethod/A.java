@@ -11,4 +11,7 @@ public abstract class A
 
     }
     public abstract void demo2();
+    public abstract void demo3();
+    public abstract void demo4();
+
 }
